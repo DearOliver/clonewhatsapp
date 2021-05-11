@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0d1eaef-62be-43c0-8895-55b0800dd325" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/firstapp/components/ChatListItem/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstapp/components/ChatListItem/styles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstapp/components/ChatMessage/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstapp/components/ChatMessage/styles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstapp/components/ContactListItem/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstapp/components/ContactListItem/styles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstapp/components/InputBox/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstapp/components/InputBox/styles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstapp/components/NewMessageButton/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstapp/components/NewMessageButton/styles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstapp/screens/ChatRoomScreen.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstapp/screens/ContactsScreen.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstapp/src/graphql/new_queries.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstapp/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/firstapp/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstapp/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/firstapp/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstapp/constants/Colors.ts" beforeDir="false" afterPath="$PROJECT_DIR$/firstapp/constants/Colors.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstapp/navigation/BottomTabNavigator.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/firstapp/navigation/MainTabNavigator.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstapp/navigation/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/firstapp/navigation/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstapp/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/firstapp/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstapp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/firstapp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstapp/screens/TabOneScreen.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/firstapp/screens/ChatScreen.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstapp/types.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/firstapp/types.tsx" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/firstapp" />
+  </component>
+  <component name="ProjectId" id="1r701ZG6smY3XfBqCAYcdvZp7eI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.16.3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/firstapp/components" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Users\Romain\Documents\EPSI 3e ANNÉE\ALTE\FirstApp\firstapp\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Romain\Documents\EPSI 3e ANNÉE\ALTE\FirstApp\firstapp\components" />
+      <recent name="C:\Users\Romain\Documents\EPSI 3e ANNÉE\ALTE\FirstApp\firstapp\screens" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Romain\Documents\EPSI 3e ANNÉE\ALTE\FirstApp\firstapp" />
+      <recent name="C:\Users\Romain\Documents\EPSI 3e ANNÉE\ALTE\FirstApp\firstapp\.expo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0d1eaef-62be-43c0-8895-55b0800dd325" name="Default Changelist" comment="" />
+      <created>1618311606671</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618311606671</updated>
+      <workItem from="1618311609506" duration="5125000" />
+      <workItem from="1618333836464" duration="4824000" />
+      <workItem from="1618393983397" duration="4108000" />
+      <workItem from="1618398158956" duration="1627000" />
+      <workItem from="1618399817108" duration="4485000" />
+      <workItem from="1618413558608" duration="8906000" />
+      <workItem from="1618502295689" duration="1208000" />
+      <workItem from="1618514031999" duration="1920000" />
+      <workItem from="1618569657787" duration="2492000" />
+      <workItem from="1618583963290" duration="4315000" />
+      <workItem from="1618812636260" duration="1719000" />
+      <workItem from="1618814385949" duration="318000" />
+      <workItem from="1618814910225" duration="8276000" />
+      <workItem from="1618997649913" duration="15120000" />
+      <workItem from="1619046269649" duration="11847000" />
+      <workItem from="1619112691048" duration="14013000" />
+      <workItem from="1619182754760" duration="10440000" />
+      <workItem from="1620570144877" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/firstapp/screens/ChatRoomScreen.tsx</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

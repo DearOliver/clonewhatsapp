@@ -1,0 +1,45 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\Romain\Documents\EPSI 3e ANNÉE\ALTE\FirstApp\node_modules\yarn\bin\yarn.js install
+
+PATH: 
+  C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Romain\bin;C:\Users\Romain\Documents\EPSI 3e ANNÉE\ALTE\FirstApp\node_modules\.bin;C:\Program Files (x86)\VMware\VMware Workstation\bin;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Razer\ChromaBroadcast\bin;C:\Program Files\Razer\ChromaBroadcast\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files\dotnet;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn;C:\Program Files\nodejs;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\wamp64\bin\php\php7.3.12;C:\composer;C:\Program Files\Symfony;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn;C:\Program Files\Microsoft SQL Server\140\Tools\Binn;C:\Program Files\Microsoft SQL Server\140\DTS\Binn;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\Microsoft SQL Server\130\Tools\Binn;C:\Program Files\WorldPainter;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn;C:\Program Files\Microsoft SQL Server\150\Tools\Binn;C:\Program Files\Microsoft SQL Server\150\DTS\Binn;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Java\jdk1.8.0_251\bin;C:\Users\Romain\AppData\Local\Microsoft\WindowsApps;C:\Users\Romain\AppData\Roaming\npm;C:\Users\Romain\AppData\Roaming\Composer\vendor\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\Java\jdk-11.0.9\bin;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;C:\Users\Romain\AppData\Local\Programs\Python\Python38;C:\Users\Romain\AppData\Local\Programs\Python\Python38\Scripts;C:\Program Files\MariaDB 10.5\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Users\Romain\AppData\Local\Programs\Python\Python38\Scripts;C:\Users\Romain\AppData\Local\Programs\Python\Python38;C:\Users\Romain\AppData\Local\Microsoft\WindowsApps;C:\Users\Romain\AppData\Roaming\npm;C:\Users\Romain\AppData\Roaming\Composer\vendor\bin;C:\Users\Romain\AppData\Local\Microsoft\WindowsApps;C:\Users\Romain\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\heroku\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2019.2.1\plugins\maven\lib\maven3\bin;C:\Users\Romain\AppData\Local\Programs\Python\Python38\Lib\site-packages\youtube_dl\postprocessor;C:\Users\Romain\AppData\Roaming\ffmpeg-4.3.1-2020-11-19-full_build\bin;C:\Users\Romain\AppData\Local\Programs\Python\Python38\Lib\site-packages\PyQt5;C:\Users\Romain\appdata\roaming\python\python38\site-packages\pylint;C:\Users\Romain\appdata\roaming\python\python38\Scripts;C:\Users\Romain\AppData\Local\Programs\Python\Python38\Lib\site-packages\kivymd\uix;C:\Users\Romain\AppData\Local\GitHubDesktop\bin;C:\Users\Romain\.dotnet\tools
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  10.16.3
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: EPERM: operation not permitted, unlink 'C:\Users\Romain\Documents\EPSI 3e ANNÉE\ALTE\FirstApp\node_modules\.bin\yarn'
+
+npm manifest: 
+  {
+    "name": "FirstApp",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "@react-navigation/material-top-tabs": "^5.3.15",
+      "react-native-pager-view": "^5.1.3",
+      "react-native-reanimated": "^2.1.0",
+      "react-native-tab-view": "^3.0.1",
+      "watchman": "^1.0.0",
+      "yarn": "^1.22.10"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
